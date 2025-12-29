@@ -1,0 +1,4 @@
+Flip	flip.mp3	 <audio id="sound-flip" preload="auto" src="assets/flip.mp3"></audio>
+Match	match.mp3	<audio id="sound-match" preload="auto" src="assets/match.mp3"></audio>
+Win	win.mp3	   <audio id="sound-win" preload="auto" src="assets/win.mp3"></audio>
+Lose	gameover.mp3          <audio id="sound-lose" preload="auto" src="assets/gameover.mp3"></audio>
